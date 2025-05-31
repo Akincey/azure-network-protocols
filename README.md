@@ -48,7 +48,7 @@ In this step, I am creating a Group Policy Object (GPO) designed to apply unifor
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this step, I am using the Group Policy Management Console to implement an account lockout policy. This includes configuring the lockout duration, threshold for invalid login attempts, and the reset time. The goal is to enhance security by mitigating the risk of brute-force attacks while maintaining usability for domain users.
 </p>
 <br />
 
